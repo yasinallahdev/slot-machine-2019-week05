@@ -1,24 +1,8 @@
 # 🎰 Week05 Bootcamp2019 Project: Slot Machine
 
-### Goal: Build a Simple Slot Machine
+### Frosty Phoenix Casino
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+Frosty Phoenix Casino has three reels that can roll five possible values each. Players bet either $5 or $50 to roll the reels.
+If all three reels match, the player gets 10X their bet as a reward, and a sound effect will play!
 
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+![Frosty Phoenix Casino Image](https://lh3.googleusercontent.com/a_rUmdA4YxNYcSPj_mt23XQOY7FRPS6aa43uzG32gu983Sd0ya1oJkcH8q1kIf_nPE33cR35tUHKi9Gkpv89vBp_Ygaxv0uJpRddhP_VVpzFwy-NSi8xP9GN7B55NbJRdVtEiS9dC1VhwPzUDyut3oO7_qfnqyoZ31iyakcSwkyT5GdTGWX3_MCrFLzF9U_AgdlgI0dMaw9xXVyaTzsBDIVzfNlUhi_hWwSd-O-SzjI6adFymfRlOZltn8jFYAI7QixAu0BBgCBZmVNXLK8IUTk8nF7UZ3_PQq2ikRfh2sFZx8KDi2lrwpnQkpXQ1MrB_-JxXNGpkFktVCDl6s9vZr1AQoU6T4jm3DlqcdG-qZAUUd68PP3A3G-S8EPIU3qZBDF0h6p3JUX9vnDAb0DePPsyNq9twevKB6y0zH2eZesaEpH0mvfz_Q8kRsCefllbrVwnxJmU0pQsq3gBd8GuMJ2F6WMOBivrt-869vezKX4Y0QfP_sj1wWchE8mFcOLB2wUk_hhWI4W6mehD16phr3fBp74JDoInYLCJmFDl8oqBsHbJXRaDJGp7QK1cIo8tbWFgymTsF2Abmb-j5URZSXWteYyuQIM1jimrOvGDDclwftT3ILUfnMZZf6GrCbZt_jKykAynQjN90rhvkIOIo3eG2b3E-PtB7fWEYSusxwY1uWbP2lSQqaw=w1079-h523-no)
